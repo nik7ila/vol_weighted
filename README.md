@@ -45,7 +45,8 @@ Using AI-assisted guidance made it easier to grasp complex financial math, struc
 Visual comparisons & benchmarking improve interpretability for decision-makers.
 
 # Results Preview
-
+![Cumulative Returns](images/cum_returns.png)
+![Volatility Weights](images/vol_weights.png)
 Comparison of cumulative returns for all three strategies.
 
 # Dependencies
